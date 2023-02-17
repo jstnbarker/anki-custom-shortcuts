@@ -52,9 +52,9 @@
 
 	"reviewer choice 1": "k",
 	"reviewer choice 2": "<nop>",
-	"reviewer choice 3": "j",
+	"reviewer choice 3": "u",
 	"reviewer choice 4": "<nop>",
-	"reviewer replay audio 1": "u",
+	"reviewer replay audio 1": "j",
 	"reviewer replay audio 2": "r",
 	"reviewer flip card 1": "Qt.Key_Space",
 	"reviewer flip card 2": "Qt.Key_Return",
